@@ -17,7 +17,7 @@ public class sogutucu {
     public static void main(String[] args) throws InterruptedException {
             
            Subscriber subsriber=new Subscriber();
-            subsriber.update("Sogutucu ara yuzune giris yapildi!\n");
+            subsriber.update("Sogutucu uygualamasina giris yapildi!\n");
             User user=new User();
             user.Basla();
          
